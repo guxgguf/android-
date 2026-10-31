@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\Admin\AndroidStudioProjects\Dooo\app\.cxx\RelWithDebInfo\3336162u\x86_64'
+ninja: no work to do.
